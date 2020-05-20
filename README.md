@@ -1,6 +1,6 @@
-# Sommelier ETL Project for Butler Data Analytics
+# Sommelier ETL Project
 Sommelier Data Obtained from Kaggle </br>
-Ben Reiff, Chelsea Snedden, Morgan Bricker
+Chelsea Snedden, Morgan Bricker, Ben Reiff
 ---
 # Extract
 We began by downloading a CSV from Kaggle open source Wine Review data and located a CSV of scraped data from a website on Napa Valley Wine Locations and Info.</br>
